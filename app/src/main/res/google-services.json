@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "337226973550",
+    "firebase_url": "https://whicho-ab479.firebaseio.com",
+    "project_id": "whicho-ab479",
+    "storage_bucket": "whicho-ab479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337226973550:android:140704bcd051e732",
+        "android_client_info": {
+          "package_name": "com.example.dogi.whicho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337226973550-5p7e46c32ml2pol1lh2a4m3gi9qpitio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dogi.whicho",
+            "certificate_hash": "5ca5b24924af59c1f7c255aaab3cc81584e973f2"
+          }
+        },
+        {
+          "client_id": "337226973550-ganemldclaerksgd3npajc4p2mifcile.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdtf0r_SPeyficu5YUw8BNH7XWw3er1Ko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337226973550-ganemldclaerksgd3npajc4p2mifcile.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
